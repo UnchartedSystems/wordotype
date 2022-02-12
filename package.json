@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/UnchartedSystems/wordotype/issues"
   },
-  "homepage": "https://github.com/UnchartedSystems/wordotype#readme"
+  "homepage": "https://github.com/UnchartedSystems/wordotype#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
