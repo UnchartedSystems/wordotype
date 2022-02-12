@@ -20,8 +20,8 @@ body {
   display: grid;
   height: 80%;
   width: 80%;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
   outline: 5px dotted yellow;
   
 }
@@ -91,6 +91,134 @@ body {
 }
 
 .item9 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item10 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item11 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item12 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item13 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item14 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item15 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item16 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item17 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item18 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item19 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item20 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item21 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item22 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item23 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item24 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item25 {
   display: flex;
   justify-content: center;
   align-items: center;
