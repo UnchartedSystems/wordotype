@@ -1,0 +1,99 @@
+body {
+  background: black;
+}
+
+.box1 {
+  position: relative;
+  background-color: gray;
+  width: 900px;
+  height: 900px;
+  left: 20%;
+  top: 100px;
+  border-radius: 20%;
+  border: 5px solid blue;
+}
+
+.container {
+  position: relative;
+  left: 10%;
+  top: 10%;
+  display: grid;
+  height: 80%;
+  width: 80%;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  outline: 5px dotted yellow;
+  
+}
+
+.item1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item7 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item8 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
+
+.item9 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #222;
+  text-align: center;
+}
