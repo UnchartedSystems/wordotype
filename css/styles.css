@@ -44,11 +44,15 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
   text-align: center;
   border-radius: 20%;
   margin: 5px;
+  
 }
 
 .item1:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item2 {
@@ -64,6 +68,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item2:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item3 {
@@ -79,6 +86,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item3:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item4 {
@@ -94,6 +104,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item4:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item5 {
@@ -109,6 +122,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item5:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item6 {
@@ -124,6 +140,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item6:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item7 {
@@ -139,6 +158,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item7:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item8 {
@@ -154,6 +176,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item8:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item9 {
@@ -169,6 +194,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item9:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item10 {
@@ -184,6 +212,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item10:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item11 {
@@ -199,6 +230,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item11:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item12 {
@@ -214,6 +248,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item12:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item13 {
@@ -229,6 +266,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item13:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item14 {
@@ -244,6 +284,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item14:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item15 {
@@ -259,6 +302,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item15:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item16 {
@@ -274,6 +320,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item16:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item17 {
@@ -289,6 +338,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item17:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item18 {
@@ -304,6 +356,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item18:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item19 {
@@ -319,6 +374,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item19:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item20 {
@@ -334,6 +392,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item20:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item21 {
@@ -349,6 +410,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item21:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item22 {
@@ -364,6 +428,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item22:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item23 {
@@ -379,6 +446,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item23:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item24 {
@@ -394,6 +464,9 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item24:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
 
 .item25 {
@@ -409,4 +482,12 @@ background-position: 0 0, 0 0, 16px 28px, 16px 28px, 0 0, 16px 28px;
 .item25:hover {
   background-color: green;
   box-shadow: 2px 2px 2px 2px green;
+  transform-style: preserve-3d;
+  transition: all 0.5s ease;
+  transform: rotateY(180deg);
 }
+
+.tileText:hover {
+  transform: rotateY(180deg);
+}
+
